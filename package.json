@@ -1,0 +1,16 @@
+{
+  "name": "jpan-polly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.368.0",
+    "box-node-sdk": "^1.23.0",
+    "moment": "^2.23.0"
+  }
+}
